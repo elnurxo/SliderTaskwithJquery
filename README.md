@@ -1,0 +1,2 @@
+# SliderTaskwithJquery
+jquery slider
